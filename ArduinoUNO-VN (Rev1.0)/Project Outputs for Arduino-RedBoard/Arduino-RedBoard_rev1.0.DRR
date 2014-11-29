@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Arduino-RedBoard_rev1.0.PcbDoc   9/29/2014  12:04:21 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Arduino-RedBoard_rev1.0-RoundHoles.TXT
+ASCII SlotHoles File : Arduino-RedBoard_rev1.0-SlotHoles.TXT
+EIA File   : Arduino-RedBoard_rev1.0.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.4mm (15.748mil)        Round          52               434.83 mm (17.12 Inch)
+T2        0.6mm (23.622mil)        Round          14               159.92 mm (6.30 Inch)
+T3        0.8mm (31.496mil)        Round          32               194.68 mm (7.66 Inch)
+T4        1mm (39.37mil)           Round          45               227.36 mm (8.95 Inch)
+T5        1.27mm (50mil)           Slot           3                7259.24 mm (285.80 Inch)
+T6        3.2mm (125.984mil)       Round          4                137.86 mm (5.43 Inch)
+---------------------------------------------------------------------------
+Totals                                            150              8413.88 mm (331.26 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
